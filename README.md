@@ -1,3 +1,3 @@
 # maxx-animation
 
-A simple animation of MAXX.
+A simple animation of MAXXOP.
